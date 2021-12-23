@@ -13,6 +13,10 @@ public class GitTest {
         System.out.println("git - hot - fix");
         System.out.println("hot - fix - test - 2");
         System.out.println("git - master");
+        System.out.println("git - master");
+        System.out.println("gitee- master");
+        System.out.println("gitee - master");
+        System.out.println("gitee - master");
     }
 
 }
